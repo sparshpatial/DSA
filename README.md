@@ -1,2 +1,2 @@
 # DSA
-Will positively maintain the streak of DSA :)
+Will positively learn DSA :)
